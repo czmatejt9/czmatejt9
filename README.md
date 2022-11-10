@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @czmatejt9
 - 👀 I’m interested in programing
-- 🌱 I’m currently creating website for my sports_club
+- 🌱 I’m currently creating website for my sports club
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me tajovsky.matej@gmail.com
 
