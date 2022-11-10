@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @czmatejt9
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently creating website for my sports_club
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me tajovsky.matej@gmail.com
 
 <!---
 czmatejt9/czmatejt9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
