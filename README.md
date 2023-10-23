@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @czmatejt9
 - 👀 I’m interested in programing
 - 🌱 I’m currently creating mobile app for my sports club (in flutter)
-- 💞️ I’m looking to collaborate on python related projects
+![My stats](https://github-readme-stats.vercel.app/api?username=czmatejt9)
 - 📫 How to reach me tajovsky.matej@gmail.com
 
 <!---
